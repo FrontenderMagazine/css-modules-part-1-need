@@ -12,7 +12,7 @@
 
 **Часть 1: Что такое CSS-модули и зачем они нам? *(Вы её читаете!)***  
 
-Часть 2: Начинаем использовать CSS Modules *(Скоро!)*  
+[Часть 2: Начинаем использовать CSS Modules][11]
 
 Часть 3: React + CSS Modules = 😍 *(Скоро!)* 
 
@@ -228,5 +228,6 @@ CSS-модули. Мы будем использовать для этого н�
  [8]: http://glenmaddern.com/articles/css-modules
  [9]: http://www.sitepoint.com/understanding-es6-modules/
  [10]: https://github.com/ModuleLoader/es6-module-loader/wiki/Brief-Overview-of-ES6-Module-syntax
+ [11]: https://css-tricks.com/css-modules-part-2-getting-started/
 
  [Инспектор, в котором показан сгенерированный HTML]: img/devtools.png "Инспектор, в котором показан сгенерированный HTML"
